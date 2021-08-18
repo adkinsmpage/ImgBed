@@ -1,1 +1,3 @@
 # ImgBed
+
+Use PicGo
